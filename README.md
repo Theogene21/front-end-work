@@ -1,2 +1,2 @@
 Name: Sinzabakwira Theogene
-reg:24rp
+reg:24rp06650
